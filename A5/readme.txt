@@ -1,4 +1,4 @@
-Linh Truong (B00708389)
+Linh Truong 
 March 19th,2021
 
 NOTE: Look at "A4 Input and Output".txt for each programs input and output.
